@@ -1,4 +1,3 @@
-🔗 **[KHNP](https://unchil.github.io/Notebook/khnp.html)**
 # Notebook - 데이터 분석 결과 리포트
 ​
 이 저장소는 Kotlin Notebook, Python Notebook 등을 활용한 데이터 분석 노트북과 그 결과물(HTML)을 관리합니다.
