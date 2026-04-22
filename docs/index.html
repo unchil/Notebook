@@ -1,10 +1,63 @@
 <!DOCTYPE html>
-
-<html lang="en">
-<head><meta charset="utf-8"/>
-<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<title>Notebook</title>
+<html lang="ko">
+<head>
+    <meta charset="utf-8"/>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+    <title>Notebook - 데이터 분석 결과</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 0 20px;
+            background-color: #f9f9f9;
+        }
+        h1 {
+            color: #2c3e50;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 10px;
+        }
+        .card {
+            background: #fff;
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            margin-top: 20px;
+        }
+        .link-button {
+            display: inline-block;
+            background-color: #3498db;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+            transition: background-color 0.3s;
+        }
+        .link-button:hover {
+            background-color: #2980b9;
+        }
+        ul {
+            padding-left: 20px;
+        }
+    </style>
+</head>
 <body>
-    This page is for previewing the notebook.
+<h1>데이터 분석 프리뷰</h1>
+<p>이 페이지는 노트북 분석 결과물을 미리 보기 위한 메인 페이지입니다.</p>
+
+<div class="card">
+    <h2>한국수력원자력(KHNP) 실시간 데이터 시각화</h2>
+    <p>발전소에서 수집되는 실시간 폐수 및 수온 데이터를 분석하고 시각화한 결과입니다.</p>
+    <ul>
+        <li><strong>폐수 수질 현황:</strong> 분단위 실시간 PH 농도 및 유량 변화 시각화</li>
+        <li><strong>취수/배수 수온:</strong> 발전소별 실시간 취수 및 배수 수온 편차 분석 (Ribbon Chart)</li>
+        <li><strong>데이터 정제:</strong> 수집 시간과 측정 시간의 일치 여부 필터링 및 데이터 타입 변환 적용</li>
+    </ul>
+    <br>
+    <a href="khnp.html" class="link-button">분석 결과 보기</a>
+</div>
 </body>
 </html>

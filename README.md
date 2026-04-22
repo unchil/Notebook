@@ -1,1 +1,1 @@
-🔗 **[KHNP](https://unchil.github.io/Notebook/khnp.html)**
+🔗 **[Document Page](https://unchil.github.io/Notebook)**
