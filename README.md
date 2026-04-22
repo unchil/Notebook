@@ -5,7 +5,7 @@
 ## 🔗 데이터 분석 결과 프리뷰
 분석된 결과물을 브라우저에서 인터랙티브하게 확인하실 수 있습니다.
 ​
-*   🚀 **[데이터 분석 메인 페이지 보기](https://unchil.github.io/Notebook/index.html)**
+*  **[데이터 분석 메인 페이지 보기](https://unchil.github.io/Notebook/index.html)**
     ​
  ---
 ​
