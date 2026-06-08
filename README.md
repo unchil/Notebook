@@ -19,5 +19,5 @@
     ​
 ### 2. 기타 분석 노트 (IPYNB)
 *   `consumer_price_index.ipynb`: 소비자 물가 지수 분석
-*   `Nifs2.ipynb`: 바닷물 품질정보
+*   `Nifs_Kotlin.ipynb`: 바닷물 품질정보
 *   `SeaWaterQuilty2.ipynb`: 바닷물 품질정보
