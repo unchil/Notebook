@@ -1,6 +1,6 @@
 # Notebook - 데이터 분석 결과 리포트
 ​
-이 저장소는 Kotlin Notebook, Python Notebook 등을 활용한 데이터 분석 노트북과 그 결과물(HTML)을 관리합니다.
+이 저장소는 Jupyter Notebook( Kotlin, Python ) 등을 활용한 데이터 분석 노트북과 그 결과물(HTML)을 관리합니다.
 ​
 ## 🔗 데이터 분석 결과 프리뷰
 분석된 결과물을 브라우저에서 인터랙티브하게 확인하실 수 있습니다.
