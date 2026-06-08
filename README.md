@@ -17,7 +17,7 @@
 *   **취수/배수 수온 현황:** 발전소별 수온 편차 분석 (Ribbon Chart 활용)
 *   **데이터 정제:** 수집/측정 시간 불일치 데이터 필터링 및 타입 변환
     ​
-### 2. 기타 분석 노트 (IPYNB)
+### 2. 기타 분석 노트
 *   `consumer_price_index.ipynb`: 소비자 물가 지수 분석
 *   `Nifs_Kotlin.ipynb`: 바닷물 품질정보
 *   `SeaWaterQuilty2.ipynb`: 바닷물 품질정보
